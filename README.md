@@ -1,1 +1,2 @@
-# victorlog
+# Procfile
+Zindawrs
